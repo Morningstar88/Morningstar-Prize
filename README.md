@@ -6,6 +6,7 @@
 
 - Pollution
 - Job Market
+- Trash Collection
 
 ### Current Prize Fund: 5 Dollars!  
 
