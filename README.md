@@ -8,7 +8,6 @@
 
 Lomba Terkini! Menangkan 500.000 Rupiah! Jawab: Apa 3 pekerjaan lingkungan terbaik untuk memperbaiki Bumi? (Latest Competition: Win 500,000 Rupiahs! Answer: What are the 3 best environmental jobs to fix Earth?)
 
-Kickstarter: https://help.kickstarter.com/hc/en-us/articles/115005128594-Who-can-use-Kickstarter: https://help.kickstarter.com/hc/en-us/articles/115005128594-Who-can-use-Kickstarter
 
 ## Penjelasan Detil:
 
