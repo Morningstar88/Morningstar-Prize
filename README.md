@@ -1,7 +1,7 @@
 # Morningstar Hadiah: Ngademang Masalah Bumi Ipun!
 <p align="center">
 <img src="https://raw.githubusercontent.com/Morningstar88/X/main/pics/midnight-first-screen.png">
-</p><br><br><br>
+<br><br><br></p>
 ## Apa perlu diperbaiki di Bumi?
 - Pengotoran: Tanah, udara, laut - dadi bersih! (Pollution: Land, air, sea - make it clean!)
 - Pasar Kerja: Cari kerja gampang, gaji layak! (Job Market: Find jobs easily, get fair salaries!)
