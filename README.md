@@ -1,4 +1,4 @@
-# N Hadiah: Ngademang Masalah Bumi Ipun!
+# Morningstar Hadiah: Ngademang Masalah Bumi Ipun!
 ## Apa perlu diperbaiki di Bumi?
 
 - Pengotoran: Tanah, udara, laut - dadi bersih! (Pollution: Land, air, sea - make it clean!)
@@ -11,7 +11,7 @@ Lomba Terkini! Menangkan 500.000 Rupiah! Jawab: Apa 3 pekerjaan lingkungan terba
 
 ## Penjelasan Detil:
 
-- N Hadiah: Program iki ngasih hadiah untuk ide-ide inovatif yang bisa memperbaiki masalah di Bumi. (N Prize: This program rewards innovative ideas to fix problems on Earth.)
+- Morningstar Hadiah: Program iki ngasih hadiah untuk ide-ide inovatif yang bisa memperbaiki masalah di Bumi. (N Prize: This program rewards innovative ideas to fix problems on Earth.)
 - Masalah Bumi: Polusi, masalah kerja di bidang lingkungan, pengelolaan sampah adalah beberapa contoh masalah. (Earth's Problems: Pollution, environmental jobs, trash collection are some examples.)
 - Dana Hadiah: Saat ini dana hadiah lumayan gede, tapi donasi tetep dibuka. (Prize Fund: It's bigger now, but donations are welcome!)
 - Lomba Terkini: Jawab pertanyaan lomba dan menangkan hadiah uang tunai! (Latest Competition: Answer the question and win cash!)
