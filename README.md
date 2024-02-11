@@ -20,9 +20,7 @@ Lomba Terkini! Menangkan 500.000 Rupiah! Jawab: Apa 3 pekerjaan lingkungan terba
 - Pengelolaan Air: Kekeringan sering terjadi di Bali. Ide untuk mengelola air dengan lebih baik sangat dibutuhkan. (Water Management: Droughts are common in Bali. Better water management ideas are needed.)
 
 
-"Wah, hadiah setengah juta? Bisa buat ngajak jalan keluarga jalan-jalan!" (Wow, half a million prize? Enough for a family outing!)
-"Mikirin Bumi, eh hadiahnya bisa buat beli bakso sapi enak?" (Thinking of Earth, then the prize buys delicious beef bakso?)
-Perubahan Lainnya:
+
 
 Mata uang: Menggunakan Rupiah Indonesia untuk semua nilai uang.
 Bahasa: Menggunakan Bahasa Bali madya, mudah dipahami masyarakat umum.
