@@ -13,9 +13,6 @@ Lomba Terkini! Menangkan 500.000 Rupiah! Jawab: Apa 3 pekerjaan lingkungan terba
 
 ## Penjelasan Detil:
 
-- Morningstar Hadiah: Program iki ngasih hadiah untuk ide-ide inovatif yang bisa memperbaiki masalah di Bumi. (N Prize: This program rewards innovative ideas to fix problems on Earth.)
-- Masalah Bumi: Polusi, masalah kerja di bidang lingkungan, pengelolaan sampah adalah beberapa contoh masalah. (Earth's Problems: Pollution, environmental jobs, trash collection are some examples.)
-- Dana Hadiah: Saat ini dana hadiah lumayan gede, tapi donasi tetep dibuka. (Prize Fund: It's bigger now, but donations are welcome!)
 - Lomba Terkini: Jawab pertanyaan lomba dan menangkan hadiah uang tunai! (Latest Competition: Answer the question and win cash!)
 
 - Polusi Plastik: Bali terkenal dengan keindahan pantainya, tapi sampah plastik jadi masalah besar. Ide untuk mengurangi dan mengelola sampah plastik sangat dibutuhkan. (Plastic - - - - - Pollution: Bali's beaches are beautiful, but plastic waste is a big problem. Ideas to reduce and manage plastic waste are needed.)
