@@ -9,7 +9,8 @@
 - Dana Hadiah: 500.000 Rupiah! (Prize Fund: Half a million Indonesian Rupiahs!)
 
 Lomba Terkini! Menangkan 500.000 Rupiah! Jawab: Apa 3 pekerjaan lingkungan terbaik untuk memperbaiki Bumi? (Latest Competition: Win 500,000 Rupiahs! Answer: What are the 3 best environmental jobs to fix Earth?)
-
+<img src="https://raw.githubusercontent.com/Morningstar88/X/main/pics/midnight-first-screen.png">
+</p>
 
 ## Penjelasan Detil:
 
