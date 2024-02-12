@@ -3,10 +3,10 @@
 </p>
 
 ## Apa perlu diperbaiki di Bumi?
-- Pengotoran: Tanah, udara, laut - dadi bersih! (Pollution: Land, air, sea - make it clean!)
-- Pasar Kerja: Cari kerja gampang, gaji layak! (Job Market: Find jobs easily, get fair salaries!)
-- Pengelolaan Sampah: Kurangi buang sampah sembarangan! (Trash Collection: Reduce littering!)
-- Dana Hadiah: 500.000 Rupiah! (Prize Fund: Half a million Indonesian Rupiahs!)
+- #### Pengotoran: Tanah, udara, laut - dadi bersih! (Pollution: Land, air, sea - make it clean!)
+- #### Pasar Kerja: Cari kerja gampang, gaji layak! (Job Market: Find jobs easily, get fair salaries!)
+- #### Pengelolaan Sampah: Kurangi buang sampah sembarangan! (Trash Collection: Reduce littering!)
+- #### Dana Hadiah: 500.000 Rupiah! (Prize Fund: Half a million Indonesian Rupiahs!)
 
 Lomba Terkini! Menangkan 500.000 Rupiah! Jawab: ----
 <img src="https://raw.githubusercontent.com/Morningstar88/X/main/pics/midnight-first-screen.png">
@@ -14,11 +14,11 @@ Lomba Terkini! Menangkan 500.000 Rupiah! Jawab: ----
 
 ## Penjelasan Detil:
 
-- Lomba Terkini: Jawab pertanyaan lomba dan menangkan hadiah uang tunai! (Latest Competition: Answer the question and win cash!)
+- #### Lomba Terkini: Jawab pertanyaan lomba dan menangkan hadiah uang tunai! (Latest Competition: Answer the question and win cash!)
 
-- Polusi Plastik: Bali terkenal dengan keindahan pantainya, tapi sampah plastik jadi masalah besar. Ide untuk mengurangi dan mengelola sampah plastik sangat dibutuhkan. (Plastic - - - - - Pollution: Bali's beaches are beautiful, but plastic waste is a big problem. Ideas to reduce and manage plastic waste are needed.)
-- Pariwisata Berkelanjutan: Pariwisata sumber pendapatan utama Bali, tapi juga bisa merusak lingkungan. Ide untuk pariwisata yang lebih ramah lingkungan sangat dibutuhkan. (Sustainable - - Tourism: Tourism is Bali's main income, but can harm the environment. Eco-friendly tourism ideas are needed.)
-- Pengelolaan Air: Kekeringan sering terjadi di Bali. Ide untuk mengelola air dengan lebih baik sangat dibutuhkan. (Water Management: Droughts are common in Bali. Better water management ideas are needed.)
+- #### Polusi Plastik: Bali terkenal dengan keindahan pantainya, tapi sampah plastik jadi masalah besar. Ide untuk mengurangi dan mengelola sampah plastik sangat dibutuhkan. (Plastic - - - #### Pollution: Bali's beaches are beautiful, but plastic waste is a big problem. Ideas to reduce and manage plastic waste are needed.)
+- #### Pariwisata Berkelanjutan: Pariwisata sumber pendapatan utama Bali, tapi juga bisa merusak lingkungan. Ide untuk pariwisata yang lebih ramah lingkungan sangat dibutuhkan. (Sustainable - - Tourism: Tourism is Bali's main income, but can harm the environment. Eco-friendly tourism ideas are needed.)
+- #### Pengelolaan Air: Kekeringan sering terjadi di Bali. Ide untuk mengelola air dengan lebih baik sangat dibutuhkan. (Water Management: Droughts are common in Bali. Better water management ideas are needed.)
 
 
 
